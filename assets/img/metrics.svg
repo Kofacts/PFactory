@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #080808;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke: #070606;
+      }
+
+      .cls-4 {
+        stroke: #0f0e0e;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-1966 -2296)">
+    <g id="Rectangle_37" data-name="Rectangle 37" class="cls-1" transform="translate(1966 2330)">
+      <rect class="cls-5" width="8" height="26"/>
+      <rect class="cls-6" x="1" y="1" width="6" height="24"/>
+    </g>
+    <g id="Rectangle_38" data-name="Rectangle 38" class="cls-2" transform="translate(1976 2316)">
+      <rect class="cls-5" width="8" height="40"/>
+      <rect class="cls-6" x="1" y="1" width="6" height="38"/>
+    </g>
+    <g id="Rectangle_39" data-name="Rectangle 39" class="cls-3" transform="translate(1986 2311)">
+      <rect class="cls-5" width="8" height="45"/>
+      <rect class="cls-6" x="1" y="1" width="6" height="43"/>
+    </g>
+    <g id="Rectangle_40" data-name="Rectangle 40" class="cls-4" transform="translate(1996 2296)">
+      <rect class="cls-5" width="8" height="60"/>
+      <rect class="cls-6" x="1" y="1" width="6" height="58"/>
+    </g>
+  </g>
+</svg>
