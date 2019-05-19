@@ -42,14 +42,21 @@ $(document).ready(function () {
     $('.toggle-form').click(function () {
         $('.contact-box').slideToggle();
         $('html, body').animate({
-            scrollTop: $(".contact-box"). offset().bottom
+            scrollTop: $(".contact-box").offset().bottom
         }, 800);
     })
 
     //process the form probably using wordpress api
-    $('.send-mail').click(function() {
+    $('.send-mail').click(function () {
         $('.spinner-border').show();
         $('.spinner-text').hide();
-       
+
     })
+
+    //loader
+});
+$(window).bind('load',function () {
+    console.log('Loaded');
+    // Animate loader off screen
+    $(".preloader").fadeOut("slow");;
 });
